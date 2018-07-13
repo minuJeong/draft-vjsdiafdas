@@ -1,3 +1,3 @@
 # draft-vjsdiafdas
 
-![](https://github.com/minuJeong/draft-vjsdiafdas/raw/master/res.png)
+![](https://i.imgur.com/QowZ9eQ.png)
